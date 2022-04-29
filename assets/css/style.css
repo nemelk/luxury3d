@@ -110,7 +110,21 @@ form {
 input, textarea { background-color: blue; }
 
 .form-control:focus {
-        border-color: #e9bf85;
-        box-shadow: 0 0 0 0.2rem rgba(233, 191, 133, 0.25);
-    } 
+  border-color: #e9bf85;
+  box-shadow: 0 0 0 0.2rem rgba(233, 191, 133, 0.25);
+} 
+
+  #carousel { width: 100%;
+  max-width:  853px; 
+  margin:auto; }
+
+
+
+
+
+
+
+
+
+
 
